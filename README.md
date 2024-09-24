@@ -1,4 +1,4 @@
-<a href="https://github.com/AbhiramKukkapalli"><img src="https://github.com/AbhiramKukkapalli/images/profile.jpg" width="100%" height="auto"/></a>
+<a href="https://github.com/AbhiramKukkapalli"><img src="images/profile.jpg" width="100%" height="auto"/></a>
 
 <p align="center">
   <a href="https://www.youtube.com/@kukkapalliabhiram2919"><img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/qiXu7b2.png"/></a>
